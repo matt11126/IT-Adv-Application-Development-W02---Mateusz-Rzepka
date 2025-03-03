@@ -1,0 +1,3 @@
+ Added a variable to disable certain cells in the game after the colors were matched..
+ Fixed button ID by allowing buttons to know they were clicked, this lets the code compare the two buttons clicked and their colors.
+ Matched cards are disabled and turn black 

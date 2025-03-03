@@ -1,0 +1,5 @@
+changed the comparison from <= to >= to sort it as descending
+
+added.strip() to get rid of whitespace before converting the string to an int
+
+loop was modified to run until (data)-1 to avoid indexing errors.

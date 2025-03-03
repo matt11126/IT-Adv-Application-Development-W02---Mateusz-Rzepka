@@ -1,0 +1,5 @@
+If x is less than 2 it returns false since any number less than 2 isn't a prime number.
+If x equals 2 it returns true as 2 is a prime number
+if x is even and not 2 the function returns false
+for i in range (3,sqrt_x,2): only checks odd numbers since even numbers are already ruled out
+if a divisor is found it returns false, if it isn't it returns true.
